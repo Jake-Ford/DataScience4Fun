@@ -1,0 +1,35 @@
+---
+title: 'About '
+---
+
+---
+How is Durham changing demographically? Explore the 2020 census below:
+---
+
+
+## About
+
+
+My name is Jake Ford, I live in Durham, North Carolina. I'm a Data Scientist for [Solstice](https://solstice.us/), working to democratize access to solar energy. Previously, I've worked in policy analysis and applied mathematics at the state and local government level. 
+
+
+![](/Users/jacobford/Documents/GitHub/Blog//Arizona.png) 
+
+
+I like to think and write about policy related questions in a data science framework. Sometimes it's fun, sometime's it's serious, hopefully more often than not it's both! 
+
+
+Here's charlie, our rescue greyhound. You'll probably be seeing him a lot here. Look at that snoot. 
+
+
+![](/Users/jacobford/Documents/GitHub/Blog//Longest Snoot.png) 
+
+
+Feel free to get in touch. 
+
+
+Email: jake.ford927@gmail.com. 
+
+
+
+
